@@ -9,7 +9,7 @@ A Neural Network to perform 0/1 (True or False) classification on a data-set lik
 
   - Make sure that everything is up-to-date and numpy is installed
   
-    ```python
+    ```
     conda update --all
     conda install numpy
     ```
@@ -23,7 +23,7 @@ A Neural Network to perform 0/1 (True or False) classification on a data-set lik
 
   - Make sure pip is up-to-date
 
-     ```python
+     ```
       pip install --upgrade pip
      ```
    
@@ -40,6 +40,6 @@ A Neural Network to perform 0/1 (True or False) classification on a data-set lik
  - Run the script via
     
     ```python
-    python classification-network.py
+    python classification_network.py
     ```
     Enter the dimension of the data when prompted.
